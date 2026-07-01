@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "funlegit.aternos.me",
-    "port": 22378,
+    "port": 11111,
     "version": "",
     "try-creative": false
   },
